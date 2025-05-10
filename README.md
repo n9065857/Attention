@@ -1,0 +1,1 @@
+This project develops a deep learning model that improves the accuracy and reliability of X-ray image classification by integrating attention mechanisms into convolutional neural networks. The model enhances focus on relevant features, resists noise, and offers interpretable visual outputs, supporting better clinical decision-making.
