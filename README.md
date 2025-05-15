@@ -26,7 +26,7 @@ Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 Description: Frontal chest radiographs labelled with pneumonia, tuberculosis, COVID-19, or normal conditions.
 
  * Code Information
- * 
+   
 Written in MATLAB 2024a
 
 * Implements:
@@ -64,7 +64,7 @@ Accuracy, precision, recall, F1, and Kappa for each task.
 Confusion matrices and attention-based heatmaps.
 
  * Requirements
- * 
+   
 MATLAB 2024a ,GPU
 
 Toolboxes:
@@ -95,5 +95,5 @@ Rajpurkar et al. (2017). MURA Dataset: https://arxiv.org/abs/1712.06957
 Chest X-ray Kaggle Dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
  * License & Contribution Guidelines
- * 
+   
 This code is made available for academic and non-commercial use only. For licensing and contribution, please contact the corresponding author. If you use this code, please cite the corresponding publication
